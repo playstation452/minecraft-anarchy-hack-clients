@@ -3,7 +3,7 @@
 
 Name | Link | Good For 
 |--|--|--|
-Abyss Cracked | [site](https://github.com/PlutoSolutions/Abyss/) | pvp/utility
+Abyss Cracked | [github](https://github.com/PlutoSolutions/Abyss/) | pvp/utility
 Ares | [site](https://aresclient.org/) | not good 
 Cookie Client | [github](https://github.com/bebeli555/CookieClient) | baritone/utility 
 3arthh4ck | [github](https://github.com/3arthqu4ke/3arthh4ck) | pvp/utility
