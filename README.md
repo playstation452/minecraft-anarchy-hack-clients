@@ -10,5 +10,6 @@ Forgehax | [github](https://github.com/fr1kin/ForgeHax) | auto/render
 Impact | [site](https://impactclient.net) | utility/baritone/pvp
 Lambda | [github](https://github.com/lambda-client/lambda) | pvp
 LeuxBackdoor | [github](https://github.com/3arthx/Leux-Backdoor) | utility/dupe
+Paragon | [9minecraft](https://9minecraft.net/paragon-client/) | render
 |--|--|--|
 
