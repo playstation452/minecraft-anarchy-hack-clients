@@ -8,7 +8,7 @@ Ares | [site](https://aresclient.org/) | not good
 Cookie Client | [github](https://github.com/bebeli555/CookieClient) | baritone/utility 
 3arthh4ck | [github](https://github.com/3arthqu4ke/3arthh4ck) | pvp/utility
 Forgehax | [github](https://github.com/fr1kin/ForgeHax) | auto/render
-Future | [github](https://github.com/PlutoSolutions/Future) | pvp/utility
+Future Cracked | [github](https://github.com/PlutoSolutions/Future) | pvp/utility
 Impact | [site](https://impactclient.net) | utility/baritone/pvp
 Gamesense | [github](https://github.com/IUDevman/gamesense-client) | utility
 Gamesense+2 | [github](https://github.com/Droid-D3V/gamesense-plus-2) | utility
@@ -24,6 +24,7 @@ Seppuku | [github](https://github.com/seppukudevelopment/seppuku) | pvp
 Thunderhack | [github](https://github.com/Pan4ur/ThunderHackPlus) | pvp
 Trollhack | [github](https://github.com/Luna5ama/TrollHack) | utility
 Wurst+2 | [github](https://github.com/WurstPlus/wurstplus-two) | pvp
+Wurst+3 | [github](https://github.com/WurstPlus/wurst-plus-three) | pvp
 Xulu | [github](https://github.com/Elementars/Xulu-v1.5.2) | pvp/utility
 |--|--|--|
 
