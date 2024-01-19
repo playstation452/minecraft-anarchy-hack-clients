@@ -20,7 +20,7 @@ Paragon | [9minecraft](https://9minecraft.net/paragon-client/) | render
 Phobos clean | [github](https://github.com/bstar16/Phobos-1.9.0-BUILDABLE-SRC) | pvp
 Pride+ | [github](https://github.com/MolokyMC/PridePlus) | not good
 Pyro | [github](https://github.com/PlutoSolutions/Pyro) | not good
-Rusherhack Cracked | [github](https://crystalpvp.ru/rusherhack) | utility/bad
+Rusherhack Cracked | [site](https://crystalpvp.ru/rusherhack) | utility/bad
 Seppuku | [github](https://github.com/seppukudevelopment/seppuku) | pvp
 Thunderhack | [github](https://github.com/Pan4ur/ThunderHackPlus) | pvp
 Trollhack | [github](https://github.com/Luna5ama/TrollHack) | utility
