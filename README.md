@@ -23,6 +23,7 @@ Pyro | [github](https://github.com/PlutoSolutions/Pyro) | not good
 Seppuku | [github](https://github.com/seppukudevelopment/seppuku) | pvp
 Thunderhack | [github](https://github.com/Pan4ur/ThunderHackPlus) | pvp
 Trollhack | [github](https://github.com/Luna5ama/TrollHack) | utility
+Wurst+2 | [github](https://github.com/WurstPlus/wurstplus-two) | pvp
 Xulu | [github](https://github.com/Elementars/Xulu-v1.5.2) | pvp/utility
 |--|--|--|
 
