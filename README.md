@@ -10,6 +10,7 @@ Cookie Client | [github](https://github.com/bebeli555/CookieClient) | baritone/u
 Forgehax | [github](https://github.com/fr1kin/ForgeHax) | auto/render
 Future | [github](https://github.com/PlutoSolutions/Future) | pvp/utility
 Impact | [site](https://impactclient.net) | utility/baritone/pvp
+Gamesense | [github](https://github.com/IUDevman/gamesense-client) | utility
 Konas Cracked | [github](https://github.com/PlutoSolutions/KonasRewrite) | utility/pvp
 Lambda | [github](https://github.com/lambda-client/lambda) | pvp
 LeuxBackdoor | [github](https://github.com/3arthx/Leux-Backdoor) | utility/dupe
