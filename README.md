@@ -7,6 +7,7 @@ Abyss Cracked | [github](https://github.com/PlutoSolutions/Abyss/) | pvp/utility
 Ares | [site](https://aresclient.org/) | not good 
 Cookie Client | [github](https://github.com/bebeli555/CookieClient) | baritone/utility 
 3arthh4ck | [github](https://github.com/3arthqu4ke/3arthh4ck) | pvp/utility
+Exeter | [github](https://github.com/evelyn-gosselin/Exeter-1.12.2-fork) | futures base
 Forgehax | [github](https://github.com/fr1kin/ForgeHax) | auto/render
 Future Cracked | [github](https://github.com/PlutoSolutions/Future) | pvp/utility
 Gamesense | [github](https://github.com/IUDevman/gamesense-client) | utility
